@@ -1,7 +1,7 @@
 ---
 title: La pregunta que debes responder antes de meter un peso más en una maquinaria comercial que quizá todavía no existe.
 description: "Primero consigue una lista de correos. El dinero está en la lista."
-date: 2026-08-04
+date: 2026-08-05
 tags: publicidad
 ---
 Hay una idea que se ha vuelto casi un dogma en el mundo del marketing digital: cuando las ventas no llegan, la solución es invertir más en publicidad.
