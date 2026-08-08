@@ -1,6 +1,6 @@
 ---
-title: La pregunta que debes responder antes de meter un peso más en una maquinaria comercial que quizá todavía no existe.
-description: "Primero consigue una lista de correos. El dinero está en la lista."
+title: La pregunta que debes responder antes de meter un peso más en publicidad.
+description: "Hay una idea que se ha vuelto casi un dogma en el mundo del marketing digital: cuando las ventas no llegan, la solución es invertir más en publicidad."
 date: 2026-08-05
 tags: publicidad
 ---
@@ -19,11 +19,13 @@ Si ese negocio funciona, la publicidad acelerará su crecimiento.
 
 Si no funciona, la publicidad solo acelerará tus pérdidas.
 
-La pregunta que cambia todo
+--- 
 
-Antes de invertir un solo euro, un peso o un dólar más, hazte una pregunta muy sencilla:
+## La pregunta que cambia todo
 
-¿Estoy comprando clientes o solo estoy comprando atención?
+Antes de invertir un solo peso o un dólar más, hazte una pregunta muy sencilla:
+
+**¿Estoy comprando clientes o solo estoy comprando atención?**
 
 La diferencia parece pequeña, pero cambia completamente la forma de dirigir un negocio.
 
@@ -45,7 +47,9 @@ No tenían una maquinaria comercial.
 
 Solo tenían una campaña publicitaria.
 
-La publicidad no arregla un mal negocio
+---
+
+## La publicidad no arregla un mal negocio
 
 Existe la creencia de que los anuncios solucionan los problemas de ventas.
 
@@ -65,7 +69,9 @@ Hace que más personas escuchen tu mensaje.
 
 Pero no hace que ese mensaje sea mejor.
 
-¿Qué es una maquinaria comercial?
+---
+
+## ¿Qué es una maquinaria comercial?
 
 Una maquinaria comercial no es un embudo bonito ni una automatización llena de correos electrónicos.
 
@@ -87,24 +93,28 @@ Cada pieza tiene una función.
 
 Si una falla, el sistema completo pierde eficacia.
 
-Las preguntas que deberías responder
+---
+
+## Las preguntas que deberías responder
 
 Antes de aumentar tu presupuesto de publicidad, responde con honestidad:
 
-¿Mi producto resuelve un problema que las personas consideran importante?
-¿Mi propuesta es diferente de la competencia?
-¿Puedo explicar el valor de mi oferta en menos de treinta segundos?
-¿Tengo testimonios o casos de éxito que reduzcan la desconfianza?
-¿Sé exactamente por qué un cliente compra?
-¿Sé exactamente por qué otro decide no comprar?
-¿Tengo un proceso para dar seguimiento a quienes muestran interés?
-¿Mis clientes vuelven a comprar o solo vendo una vez?
+* ¿Mi producto resuelve un problema que las personas consideran importante?
+* ¿Mi propuesta es diferente de la competencia?
+* ¿Puedo explicar el valor de mi oferta en menos de treinta segundos?
+* ¿Tengo testimonios o casos de éxito que reduzcan la desconfianza?
+* ¿Sé exactamente por qué un cliente compra?
+* ¿Sé exactamente por qué otro decide no comprar?
+* ¿Tengo un proceso para dar seguimiento a quienes muestran interés?
+* ¿Mis clientes vuelven a comprar o solo vendo una vez?
 
 Si dudas en varias de estas respuestas, probablemente tu prioridad no sea invertir más en anuncios.
 
-Sea fortalecer el negocio.
+Sino fortalecer el negocio.
 
-Escalar un problema solo crea un problema más grande
+---
+
+## Escalar un problema solo crea un problema más grande
 
 Imagina un restaurante donde la comida tarda una hora en llegar.
 
@@ -130,13 +140,15 @@ No escalas el éxito.
 
 Escalas el caos.
 
-La inversión más rentable
+---
+
+## La inversión más rentable
 
 Muchos emprendedores preguntan cuánto deberían invertir en publicidad.
 
 La pregunta correcta es otra:
 
-¿Cuánto convierte mi negocio antes de invertir más dinero?
+**¿Cuánto convierte mi negocio antes de invertir más dinero?**
 
 Cuando sabes que por cada 100 personas interesadas consigues 10 clientes, puedes calcular cuánto vale cada visita.
 
@@ -144,7 +156,9 @@ Puedes invertir con tranquilidad porque entiendes el comportamiento de tu negoci
 
 La publicidad deja de ser una apuesta y se convierte en una inversión.
 
-Conclusión
+---
+
+## Conclusión
 
 No necesitas más tráfico solo porque las ventas sean bajas.
 
@@ -152,7 +166,7 @@ Necesitas entender qué ocurre desde que una persona descubre tu negocio hasta q
 
 Si ese proceso funciona, aumentar el presupuesto tiene sentido.
 
-Si no funciona, cada euro adicional será simplemente otra oportunidad perdida.
+Si no funciona, cada peso adicional será simplemente otra perdida.
 
 La publicidad acelera los resultados.
 

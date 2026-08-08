@@ -135,11 +135,6 @@ footer {
 main :first-child {
 	margin-top: 0;
 }
-
-header {
-	border-bottom: 1px dashed var(--color-gray-20);
-}
-
 #skip-link {
 	text-decoration: none;
 	background: var(--background-color);
@@ -240,6 +235,67 @@ code {
       margin: 0 auto;
     }
 
+	/* SECCIÓN DE HISTORIAS / BLOG */
+    .blog-section-title {
+      font-size: 1.2rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--text-muted);
+      margin-bottom: 1.5rem;
+      border-bottom: 1px solid #222;
+      padding-bottom: 0.5rem;
+    }
+
+    .post-card {
+      background-color: var(--card-bg);
+      border: 1px solid #222;
+      border-radius: 10px;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+      transition: transform 0.2s ease, border-color 0.2s ease, background-color 0.2s ease;
+      cursor: pointer;
+    }
+
+    .post-card:hover {
+      background-color: var(--card-hover);
+      border-color: #333;
+      transform: translateY(-2px);
+    }
+
+    .post-date {
+      font-size: 0.85rem;
+      color: var(--accent-red);
+      font-weight: 600;
+      margin-bottom: 0.4rem;
+    }
+
+    .post-title {
+      font-size: 1.35rem;
+      font-weight: 700;
+      color: var(--text-main);
+      margin-bottom: 0.6rem;
+    }
+
+    .post-excerpt {
+      font-size: 0.98rem;
+      color: var(--text-muted);
+      margin-bottom: 1rem;
+    }
+
+    .read-more {
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: var(--text-main);
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+    }
+
+    .post-card:hover .read-more {
+      color: var(--accent-red);
+    }
+
+
     /* FOOTER */
     footer {
       text-align: center;
@@ -314,14 +370,7 @@ code {
 	text-align: right;
 	margin-left: -1.5rem;
 }
-.postlist-date,
-.postlist-item:before {
-	font-size: 0.8125em; /* 13px /16 */
-	color: var(--color-gray-90);
-}
-.postlist-date {
-	word-spacing: -0.5px;
-}
+
 .postlist-link {
 	font-size: 1.1875em; /* 19px /16 */
 	font-weight: 700;

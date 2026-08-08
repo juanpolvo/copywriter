@@ -9,7 +9,7 @@ const numberOfLatestPostsToShow = 3;
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 
-
+<h2 class="blog-section-title">Últimas historias</h2>
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
 {% include "postslist.njk" %}
