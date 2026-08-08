@@ -42,7 +42,12 @@
 	<body>
 		<a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
 
-		<header>
+		<!-- ================================================= READING PROGRESS ================================================= --> 
+		<div class="reading-progress" aria-hidden="true"> 
+			<span id="reading-progress-bar"> </span> 
+			</div>
+
+		<!-- <header>
 			<a href="/" class="home-link"><img src="/jp.png" alt="Juan PM Logo"></a>
 			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
 			<nav>
@@ -52,18 +57,28 @@
 					<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
 				{%- endfor %}
 				</ul>
-			</nav>
-		</header>
+			</nav> 
+		</header> -->
 
-		<main id="main">
-			<heading-anchors>
-				{{ content | safe }}
-			</heading-anchors>
-		</main>
+		<div class="container"> 
+			<!-- ================================================= 
+			HEADER ================================================= --> 
+			<header class="site-header"> 
+				<h1 class="title"> Juan <span>Polvo</span> </h1> 
+				<p class="subtitle"> Copywriter </p>
+				<p class="tagline"> Comparto una historia diario. </p> 
+			</header>
 
-		<footer>
-			
-		</footer>
+			<main id="main">
+				<heading-anchors>
+					{{ content | safe }}
+				</heading-anchors>
+			</main>
+
+			<footer>
+				<p><a href="https://instagram.com/juanpolvoescribiendo" target="_blank">@juanpolvoescribiendo</a></p>
+			</footer>
+		</div>
 
 		<!-- This page `{{ page.url }}` was built on {% currentBuildDate %} -->
 		<script type="module" src="{% getBundleFileUrl "js" %}"></script>
